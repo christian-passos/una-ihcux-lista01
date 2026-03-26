@@ -10,4 +10,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `echo pronto`: Para criar arquivo de texto vazio
 
 ## 📸 Evidência de Execução
-(./screenshot.png)
+([./screenshot.png](https://github.com/christian-passos/una-ihcux-lista01/blob/main/screenshot.PNG))
